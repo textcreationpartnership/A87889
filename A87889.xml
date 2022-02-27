@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A free Parliament proposed by the City to the nation</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87889</idno>
+            <idno type="STC">Wing L1250B</idno>
+            <idno type="STC">Thomason 669.f.22[56]</idno>
+            <idno type="STC">ESTC R211440</idno>
+            <idno type="EEBO-CITATION">99870167</idno>
+            <idno type="PROQUEST">99870167</idno>
+            <idno type="VID">163638</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87889)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163638)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f22[56])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A free Parliament proposed by the City to the nation</title>
+                  <author>L'Estrange, Roger, Sir, 1616-1704, attributed name.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By Sir Roger L'Estrange.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Dated: Decemb. 6. 1659.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb facs="tcp:163638:1" rendition="simple:additions"/>
+            <head>A FREE PARLIAMENT Propoſed by the City to the Nation.</head>
+            <div type="letter">
+               <opener>
+                  <salute>GENTLEMEN,</salute>
+               </opener>
+               <p>HAving certain Intelligence of great Preparations againſt us from <hi>Abroad;</hi> together with the dayly and woful experience, of a more barba<g ref="char:EOLhyphen"/>rous, and Ignorable Enemy at <hi>Home:</hi> we have bethought our ſelves of an expedient, which may at once, both <hi>ſecure,</hi> and <hi>deliver</hi> the Nation from the <hi>danger</hi> of the <hi>One,</hi> and from the <hi>Tyranny</hi> of the <hi>Other.</hi> In order to this effect; <hi>The City of</hi> London <hi>hath conſtituted 4. Commisſioners, to treat Reſpectively with the rest of the People of</hi> England, <hi>in the behalf of their invaded Rights, in ſuch manner to proceed, as to the ſaid Commiſſioners ſhall appear most convenient.</hi>
+               </p>
+               <p>In perſuance of this Appointment; <hi>we Four,</hi> (whoſe Names, and Authority you ſhall find in a Schedule, to this annexed) do, in the <hi>Name,</hi> and by the <hi>Commisſion</hi> of the <hi>City</hi> of <hi>London, earneſtly and unanimouſly deſire a general Asſiſtance, toward a work of a Publique and <g ref="char:V">Ʋ</g>niverſal Benefit;</hi> The tranſaction of this Affair, we have committed to Perſons, eminent both for honeſty and fortune: and to gain diſpatch, as well as privacy, we have at the ſame Inſtant, and by ſafe hands, diſperſed True and Exact Copies of theſe to you, throughout <hi>England</hi> and <hi>Wales.</hi> Our Application ſhould have been more Regular, but for three or four falſe Brethren in our Counſels, whom we dare not confide in. <hi>We find few the Honeſter for the Quarrel, that are the Richer for it;</hi> and <hi>no other Enemies to the Peace of the Nation, but the Gayners by Ruin of it.</hi> Upon a due ſcanning of the whole matter, we have concluded, that <hi>nothing can reſtore us but a Free Parliament:</hi> Nor can any thing compoſe that, but a <hi>Free Vote,</hi> without either <hi>Force,</hi> or <hi>Factien.</hi> The moſt likely, means to procure this, will be a <hi>general Engagement</hi> to endeavor it. We ask no more, than that <hi>you</hi> will follow our example. That paper, which we commend to you, is already ſubcribed by many thouſands of this City. If you approve it, do as much; and if you think fit; <hi>chuſe out of every County Two Perſons of a Known Integrity, that may be still among us, and at hand, to preſerve a fair Intelligence betwixt us.</hi> No longer ſince, than yeſterday, the <hi>Conſervators of our Liberties;</hi> Hewſon <hi>and his Mirmidons,</hi> put an affront upon us, and with ſome miſchief too, upon this very Point: The very mention of a <hi>free Parliament</hi> enrages them, and there is Reaſon for it. <hi>Their Heads are forfeited, and if the Law Lives, they muſt periſh.</hi> But all this while, we're in a good condition, when the <hi>Tranſgreſsors</hi> of the Laws muſt be the <hi>Iudges</hi> of it. The very <hi>Boyes,</hi> and <hi>Women</hi> had deſtroyed the Party to a man, but that with much ado, we hindred them. The truth is, in ſuch a Confuſion, more honeſt bloud might have been ſpilt, than that Rabble was worth. Upon this, the City is grown ſo impatient of the Souldiers, that 'tis to be feared they will ſodainly break out into an open violence upon them. They have already entred into a ſolemn Engagement to that purpoſe. But we ſhall do our beſt to quiet them, till we receive your Anſwer. In Fine; the <hi>End</hi> is <hi>honourable,</hi> and we deſire, the <hi>means</hi> that lead to it may be ſo too. Let nothing be omitted, that may ſave bloud; The Army is neceſſitous, and without pay, they muſt or ſteal, or periſh. <hi>Let us conſider, they are our Country men,</hi> and <hi>many</hi> of them, (the <hi>necesſity apart) our friends. Let ſuch a courſe be taken, that ſo many of them as ſhall contribute to the Advantage of a free Election, may without either fraud, or delay receive their Arrears:</hi> We ſhall do our part in the Contribution, and in all offices of Relation to a <hi>Religious</hi> and <hi>Lawful Settlement,</hi> as freely engage our <hi>Lives</hi> and <hi>Fortunes</hi> with you, as we do our <hi>Penns</hi> in this Profeſſion, that we are</p>
+               <closer>
+                  <date>Decemb. 6. 1659.</date>
+                  <signed>True Engliſhmen, and your Servants,</signed>
+               </closer>
+            </div>
+            <div type="statement">
+               <head>THE ENGAGEMENT,</head>
+               <p>Wee the Free-born people of <hi>England,</hi> having for many years laſt paſt, been ſubjected in our Conſciences, Perſons, and Eſtates, to the Arbitrary, and Lawleſſe Impoſitions of Ambiti<g ref="char:EOLhyphen"/>ous, and Cruel-minded men; and finding our ſelves at preſent, in danger to be Irrecoverably loſt; partly, by Invaſions, threatned us from Abroad, and partly by Factions encroaching upon us at Home, without the ſeaſonable mediation of a <hi>Free Parliament:</hi> We do Declare, that we will by all Lawfull means Endeavour the Convening of it, and that we will, after<g ref="char:EOLhyphen"/>ward, Protect the Members of it as the Bloud of our own Hearts. We do further Engage, in the Preſence of Almighty God, that if any perſon or perſons whatſoever ſhall preſume to oppoſe us; or to impoſe upon us any other Government, inconſiſtent with, or deſtructive to the Conſtitution of Parliaments, we will proſecute him, or them, as the Betrayers of the Peo<g ref="char:EOLhyphen"/>ples Rights, and Subverters of the Fundamental Laws of the Engliſh Nation.</p>
+               <trailer>For the Honourable the Commiſsioners of the City of London, for the Liberties and Rights of the Engliſh Nation.</trailer>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>GENTLEMEN,</salute>
+               </opener>
+               <p>HAving already ſatisfied you by what <hi>Authority</hi> we Act, it concerns us next, to acquaint you, to what <hi>purpoſe</hi> we are <hi>ſent,</hi> and what it is which we have in Charge to deliver unto you.</p>
+               <p>Your <hi>Propoſals for the Settlement of the Nation;</hi> (and That, by the means of a Free Parliament) have been as faithfully, and generally communicated, as you intended they ſhould, as kindly received as you could wiſh, and the whole matter brought to as ſpeedy an iſſue as was poſſible for an Affair of that Weight, and Quality, to admit. In Teſtimony hereof, <hi>We are to give you the Thanks of the People of England;</hi> and to aſſure you, that they are not leſſe <hi>pleaſed</hi> with your <hi>Methode</hi> of promoting the Publique Good, than they are <hi>Obliged</hi> by thoſe <hi>Affections</hi> which have diſpoſed you to endeavour it. Particularly, they are exeeedingly glad to find, that the City hath entruſted ſuch Perſous in the Buſineſs, as, beſide all other due Qualifications for the Employment, have this alſo; that they were never Parties in the Quarrel. It hath been our Care likewiſe, to proceed by the ſame rule; and for this Reaſon, <hi>If both Parties ſhould be taken in, there might (poſſibly) be ſome Animoſities started, ſufficicient to obstruct the Proceeding:</hi> And again, <hi>ſhould either of them be left out, the matter would (probably) be carried by Faction.</hi>
+               </p>
+               <p>This we are commanded to repreſent, rather as a <hi>Fair Expedient,</hi> than an <hi>Abſolute Neceſsity.</hi> In the next place, we are to inform you, that the En<g ref="char:EOLhyphen"/>gagement you ſent us, found ſo prone a Reception, that we reckon it, with us, a greater difficulty to f<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd an Enemy to the Intent of it, than to ſubdue any whatever, that ſhall preſume to appear againſt the Promoters of it. We do however hold our Selves bound to aſſure you, that we are perfectly reſolved to joyn in the Charge, and Hazard of the Diſpute, with you: and that we are as unanimous in this Cauſe, as if the Treaſure of the Nation had but one Maſter, and the ſtrength of it, belonging to One Body, were but Directed to the ſame mind. The Liſt of the Subſcribers, we have here in Town; If you deſire to ſee it you may: but if otherwiſe, we offer to your Prudence to conſider, if it may not be of more Advantage, and Security to the Buſineſs in hand, rather totally to conceal the Subſcribers, if not alſo the Commiſſioners themſelves. For the thing it ſelf, we are not only wil<g ref="char:EOLhyphen"/>ling, but deſirous to make That Publique. It is of ſo Honeſt, and Reaſonable a Nature, that no Man <hi>dares</hi> oppoſe it, who dares not be Damn'd; no man <hi>will,</hi> that deſerves to Live upon Engliſh ground: and to conclude, no man <hi>ſhall,</hi> and eſcape unpuniſh'd. <hi>Parliaments are the Conſtitution Fun<g ref="char:EOLhyphen"/>damental of the Nation,</hi> the <hi>Safeguard,</hi> and the <hi>Honor of it:</hi> nor are we more concern'd to <hi>Support</hi> them, than to be wary leſt we miſtake them. We are to Diſtinguiſh betwixt <hi>Names</hi> and <hi>Things,</hi> that we be not govern'd by Deluſions; Where have we a greater <hi>Cheat,</hi> than that which ſtiles it ſelf the <hi>Publique Faith? Greater Subverters</hi> of our <hi>Liberties,</hi> than ſome that write themſelves, the <hi>Conſervators</hi> of them? 'Tis not for 40 people to call them<g ref="char:EOLhyphen"/>ſelves our <hi>Repreſentative.</hi> Is't not enough that they have Robb'd us, unleſſe they Govern us too? They'll ſay we <hi>Choſe them,</hi> ſo did we chuſe 300. <hi>more;</hi> and we'll be <hi>Ruled</hi> by <hi>All,</hi> or <hi>None of them.</hi> Without more adoe, having Formally aſſured you of an Abſolute <hi>Concurrence</hi> from the <hi>Nation,</hi> as to what they have received in Propoſition from you: It remains now, only that we recommend ſome <hi>Additionals</hi> to you, which we conceive may be of ſome Benefit to the Common Intereſt of the whole.</p>
+               <p>
+                  <hi>In the Firſt Place</hi> we propoſe, <hi>That no Petition</hi> be preſented to this <hi>pretended Parliament, from the City of</hi> London, <hi>and we undertake as much for our Selves.</hi>
+               </p>
+               <p>
+                  <hi>Secondly, That no Levies of Men, or Monies, he ſuffered, in purſuance of their</hi> pretended Acts; <hi>and in caſe of any</hi> Force <hi>attempted upon the</hi> Refuſers, <hi>that we immediately</hi> Arm <hi>our Selves, and by Violence repell it.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly, we judge it very fit, in regard of Dangers Imminent, both Foreign, and Domeſtique, That a</hi> Free Parliament <hi>be</hi> ſpeedily convened; <hi>the</hi> Time, <hi>and</hi> Manner <hi>of</hi> Summons <hi>inſtantly agreed upon, with a</hi> Salvo Jure <hi>to all Interests.— (By a Free Parliament, we underſtand, an Aſsembly of ſuch Perſons as by the Law are Qualified to ſit; and elected by Perſons Qualified to chuſe, without any other Restreint than what the Law impoſes.) Not that we claim to our ſelves the Right of Calling Parliaments; but the Impoſſi<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ility of procuring one Regularly; and the Abſolute Neceſſity of having ſomething like one ſuddenly</hi> This is enough to acquit <hi>us before God and men.</hi> By theſe means, all Differences may be compoſed, all Parties recon<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: missing" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </p>
+               <closer>
+                  <signed>GENTLEMEN</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
